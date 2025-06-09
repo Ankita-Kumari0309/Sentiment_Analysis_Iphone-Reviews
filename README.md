@@ -7,7 +7,7 @@
 Python, NLP, Tokenization, Lemmatization, Stemming, Polarity, Subjectivity, Matplotlib, Seaborn, Plotly, Numpy, Pandas
 
 ## 📈Project Overview
-This project involves cleaning and preprocessing over 10,000 iPhone reviews to ensure accurate analysis. Exploratory Data Analysis (EDA) was conducted to identify patterns and trends within the data. Insights were extracted by performing data manipulation, visualization, and statistical analysis using libraries including Matplotlib, Seaborn, Plotly, Numpy, and Pandas.
+This project involves cleaning and preprocessing over 5000 iPhone reviews to ensure accurate analysis. Exploratory Data Analysis (EDA) was conducted to identify patterns and trends within the data. Insights were extracted by performing data manipulation, visualization, and statistical analysis using libraries including Matplotlib, Seaborn, Plotly, Numpy, and Pandas.
 
 ## ✅ Results
 
